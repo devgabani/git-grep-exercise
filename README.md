@@ -1,1 +1,1 @@
-# Git Grap Exercise
+# Git Grep Exercise
